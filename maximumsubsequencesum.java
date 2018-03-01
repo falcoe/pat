@@ -1,4 +1,5 @@
 /**
+ * 1007. Maximum Subsequence Sum
  * Given a sequence of K integers { N1, N2, ..., NK }. A continuous 
  * subsequence is defined to be { Ni, Ni+1, ..., Nj } where 
  * 1 <= i <= j <= K. The Maximum Subsequence is the continuous subsequence
