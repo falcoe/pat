@@ -30,7 +30,6 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.TreeMap;
 
-import com.sun.javafx.collections.MappingChange;
 class aplusbpolynomials{
     public static void main(String[] args) {
         String filename = "aplusbpolynomials.txt";
