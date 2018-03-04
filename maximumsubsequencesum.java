@@ -33,7 +33,7 @@
 class maximumsubsequencesum{
     public static void main(String[] args) {
         int NUM =10;
-        String input_string = "-10 1 2 3 4 -5 -23 3 7 -21";
+        String digits_string = "-10 1 2 3 4 -5 -23 3 7 -21";
         int[] digits = new int[NUM];
         int startIndex = 0;
         int endIndex = 0;
