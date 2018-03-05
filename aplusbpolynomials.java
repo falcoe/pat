@@ -30,7 +30,10 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.TreeMap;
 
+<<<<<<< HEAD
 import com.sun.javafx.collections.MappingChange;
+=======
+>>>>>>> 8b1d4aeb20ac522d5466bd459339baceada84692
 class aplusbpolynomials{
     public static void main(String[] args) {
         String filename = "aplusbpolynomials.txt";
